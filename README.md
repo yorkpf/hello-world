@@ -1,2 +1,3 @@
 # hello-world
-Project repository for my first project
+Project repository for my first project.
+My name is Paulus. I am just adding my name ...
